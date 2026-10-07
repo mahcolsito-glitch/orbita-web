@@ -40,7 +40,7 @@ window.ORBITA_CONFIG = {
           },
 
           { name: 'Damian Suffo',
-           role: 'Technology Partner',
+           role: 'Partner Tecnológico',
            description: 'Desarrollador web y experto en tecnologías backend.',
            specialty: 'Arctyco',
            photo: 'assets/equipo/damian-suffo.jpg',
@@ -55,11 +55,11 @@ window.ORBITA_CONFIG = {
            linkedin: '' 
           },
 
-          { name: '-----',
+          { name: 'Lucila Tessandori',
            role: 'Diseñadora Gráfica',
            description: 'Diseñadora gráfica y editora de contenido.',
            specialty: 'Diseño',
-           photo: 'assets/equipo/---.jpg',
+           photo: 'assets/equipo/lucila-tessandori.jpg',
            linkedin: '' 
           },
         ]
