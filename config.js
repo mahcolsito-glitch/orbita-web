@@ -40,7 +40,7 @@ window.ORBITA_CONFIG = {
           },
 
           { name: 'Damian Suffo',
-           role: 'Desarrollador',
+           role: 'Technology Partner',
            description: 'Desarrollador web y experto en tecnologías backend.',
            specialty: 'Arctyco',
            photo: 'assets/equipo/damian-suffo.jpg',
