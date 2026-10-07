@@ -47,11 +47,11 @@ window.ORBITA_CONFIG = {
            linkedin: '' 
           },
 
-          { name: '-----',
+          { name: 'Maite Franco',
            role: 'Community Manager',
            description: 'Estratega de contenido especializada en RRSS.',
            specialty: 'Redes Sociales',
-           photo: 'assets/equipo/---.jpg',
+           photo: 'assets/equipo/maite-franco.jpg',
            linkedin: '' 
           },
 
