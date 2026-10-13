@@ -4,7 +4,7 @@ window.ORBITA_CONFIG = {
   CALENDAR_URL: 'https://cal.com/partnerorbita/30min', // URL real de Calendly, Cal.com u otro calendario.
   WHATSAPP_NUMBER: '5491171364304', // Código de país y número, solo dígitos.
   WHATSAPP_MESSAGE: 'Hola, me gustaría conversar sobre el ecosistema digital de mi empresa.',
-  CONTACT_EMAIL: 'contacto@orbitaparter.com',
+  CONTACT_EMAIL: 'contacto@orbitapartner.com',
   // { name: 'Nombre real', logo: 'assets/clientes/logo.webp', url: 'https://...' }
   CLIENTS: [/*{ name: 'Eventurismo',
               logo: 'assets/clientes/logo-eventurismo.png',
