@@ -1,6 +1,6 @@
 /* Todos los datos editables del sitio. No incluyas contraseñas. */
 window.ORBITA_CONFIG = {
-  SITE_URL: 'https://orbitaparter.com', // Dominio real, con https y sin barra final.
+  SITE_URL: 'https://orbitapartner.com', // Dominio real, con https y sin barra final.
   CALENDAR_URL: 'https://cal.com/partnerorbita/30min', // URL real de Calendly, Cal.com u otro calendario.
   WHATSAPP_NUMBER: '5491171364304', // Código de país y número, solo dígitos.
   WHATSAPP_MESSAGE: 'Hola, me gustaría conversar sobre el ecosistema digital de mi empresa.',
